@@ -1,0 +1,6 @@
+name: PitPvP
+main: me.BenLoe.PitPvP.Main
+version: 1.0
+description: >
+             Pvp plugin
+commands:               
